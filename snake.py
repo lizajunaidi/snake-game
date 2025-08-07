@@ -1,0 +1,9 @@
+import tkinter
+import random
+
+ROWS = 25
+COLS = 25
+SQUARE_SIZE = 25
+
+BOARD_WIDTH = SQUARE_SIZE * ROWS
+BOARD_HEIGHT = SQUARE_SIZE * COLS
